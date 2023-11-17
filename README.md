@@ -11,7 +11,7 @@ Siga as instruções abaixo para rodar o desafio em seu ambiente local:
 
 2. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/desafio-tecnico-scribo.git
+   git clone https://github.com/brunosbrito/desafio-tecnico-scribo.git
    cd desafio-tecnico-scribo
 
 3. **Instale as dependências:**
