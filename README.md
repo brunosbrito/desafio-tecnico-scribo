@@ -1,6 +1,6 @@
 # Desafio Técnico - Scribo
 
-Este é um projeto simples que realiza o desafio proposto pela Scribo. O desafio consiste em criar uma função que calcula a soma dos números menores que um determinado valor e divisíveis por 3 ou 5.
+Este é um projeto que realiza o desafio proposto pela Scribo. O desafio consiste em criar uma função que calcula a soma dos números menores que um determinado valor e divisíveis por 3 ou 5.
 
 ## Como Rodar o Desafio
 
