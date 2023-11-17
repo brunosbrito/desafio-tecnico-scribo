@@ -8,7 +8,7 @@ const test1 = () => {
 };
 
 const test2 = () => {
-  console.log('Testa se ao enviar o valor 11 o total sera 23')
+  console.log('Testa se ao enviar o valor 11 o total sera 33')
   const result = main(11);
   assert.strictEqual(result, 33);
 };
