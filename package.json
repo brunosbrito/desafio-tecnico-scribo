@@ -1,0 +1,14 @@
+{
+  "name": "desafio-tecnico-scribo",
+  "version": "1.0.0",
+  "description": "Desafio Técnico Scribo",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "author": "Bruno Brito",
+  "license": "MIT"
+}
